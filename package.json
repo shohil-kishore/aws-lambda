@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/shohil-kishore/aws-lambda/issues"
   },
-  "homepage": "https://github.com/shohil-kishore/aws-lambda#readme"
+  "homepage": "https://github.com/shohil-kishore/aws-lambda#readme",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.5",
+    "express": "^4.16.4"
+  }
 }
