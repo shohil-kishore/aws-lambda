@@ -1,2 +1,2 @@
 # aws-lambda
-AWS Lambda + Express repo.
+AWS Lambda, Claudia.js and Express test repo.
