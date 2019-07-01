@@ -20,6 +20,6 @@
   "homepage": "https://github.com/shohil-kishore/aws-lambda#readme",
   "dependencies": {
     "aws-serverless-express": "^3.3.5",
-    "express": "^4.16.4"
+    "express": "^4.17.1"
   }
 }
